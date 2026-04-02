@@ -31,8 +31,6 @@
 > Depth-camera based pipeline replacing LiDAR in confined environments  
 - Built using Autoware (ROS-based)  
 
-🎬 Demo: (Add YouTube link)
-
 ---
 
 ### 💬 Anonymous Messaging Platform
