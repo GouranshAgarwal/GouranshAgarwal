@@ -10,22 +10,14 @@
 ---
 
 ## 🚀 About Me
-- 💻 I build **production-grade backend systems** and AI-powered applications  
+- 💻 I build **Scalable backend systems** and AI-powered applications  
 - 🤖 Experience with **Autonomous Driving (Autoware, ROS)**  
 - 🧠 Interested in **system design, scalable architectures, and real-world AI**  
-- ⚡ Currently building a **YouTube-inspired video streaming backend**
+- ⚡ Currently building a **Autonomous goal chasing robot trained with RL**
 
 ---
 
 ## 🔥 Featured Projects
-
-### 🎥 Video Streaming Backend (YouTube-inspired)
-> Scalable backend with modular architecture and clean separation of concerns  
-- Node.js • Express • MongoDB • Cloudinary  
-
-👉 [View Repository](https://github.com/GouranshAgarwal/personal-youtube)
-
----
 
 ### 🤖 Autonomous Driving Perception Pipeline
 > Depth-camera based pipeline replacing LiDAR in confined environments  
